@@ -1,0 +1,14 @@
+d:\my documents\visual studio 2010\Projects\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.dll
+d:\my documents\visual studio 2010\Projects\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.pdb
+d:\my documents\visual studio 2010\Projects\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\ResolveAssemblyReference.cache
+d:\my documents\visual studio 2010\Projects\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.dll
+d:\my documents\visual studio 2010\Projects\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.pdb
+E:\SzProject\研发部\研发项目\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.dll
+E:\SzProject\研发部\研发项目\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.pdb
+E:\SzProject\研发部\研发项目\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.dll
+E:\SzProject\研发部\研发项目\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.pdb
+E:\研发部\IT_Public\研发框架\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.dll
+E:\研发部\IT_Public\研发框架\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\bin\Debug\YcHighChartsMvc.Model.pdb
+E:\研发部\IT_Public\研发框架\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.dll
+E:\研发部\IT_Public\研发框架\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.pdb
+E:\研发部\IT_Public\研发框架\图表框架\YcHighChartsMvc\YcHighChartsMvc.Model\obj\Debug\YcHighChartsMvc.Model.csprojResolveAssemblyReference.cache
