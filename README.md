@@ -4,3 +4,4 @@ Highcharts是一个制作图表的纯Javascript类库，自主封装.net图表�
 由元创商业科技（深圳）提供
 
 官网：http://www.obo2o.cn/
+blog：http://www.cnblogs.com/cheng5x
